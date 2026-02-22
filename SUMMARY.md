@@ -7,6 +7,7 @@
 * [Amplify your learning by building a home lab](amplify-your-learning-by-building-a-home-lab.md)
 * [IP Addressing Simplified](ip-addressing-simplified.md)
 * [Automate All The Things🤖🦾](automate-all-the-things.md)
+* [How I Set Up GitHub Sync for My GitBook Blog](syncing-gitbook-with-github.md)
 * [The Age of Empowerment](the-age-of-empowerment.md)
 * [Drones & Cybersecurity 🚁🏴‍☠️](drones-and-cybersecurity.md)
 * [Emerging Technology Predictions](how-will-tech-shape-the-world.md)
