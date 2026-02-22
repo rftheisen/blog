@@ -1,0 +1,29 @@
+# Table of contents
+
+* [Welcome to Bob Theisen's Blog💙](README.md)
+* [Learning Goals for 2025-2026📚](learning-goals-for-2021.md)
+* [My Teaching Philosophy👨🏽‍🏫 🎤💻](my-teaching-philosophy.md)
+* [My Impact on the World](my-impact-on-the-world.md)
+* [Amplify your learning by building a home lab](amplify-your-learning-by-building-a-home-lab.md)
+* [IP Addressing Simplified](ip-addressing-simplified.md)
+* [Automate All The Things🤖🦾](automate-all-the-things.md)
+* [The Age of Empowerment](the-age-of-empowerment.md)
+* [Drones & Cybersecurity 🚁🏴‍☠️](drones-and-cybersecurity.md)
+* [Emerging Technology Predictions](how-will-tech-shape-the-world.md)
+
+## Educational Walkthroughs & Reviews
+
+* [Hack The Box NetMon Educational Walkthrough](educational-walkthroughs-and-reviews/hackthebox-netmon-walkthrough.md)
+* [Hack The Box Dante Pro Lab Review, Reflection & Resources](educational-walkthroughs-and-reviews/hack-the-box-dante-pro-lab-review-reflection-and-resources.md)
+* [My HTB CPTS Journey (In Progress)](educational-walkthroughs-and-reviews/my-htb-cpts-journey-in-progress.md)
+* [AI Learning Resources for Beginners](educational-walkthroughs-and-reviews/ai-learning-resources-for-beginners.md)
+* [Reflections from Hack Space Con 2023 🌘](educational-walkthroughs-and-reviews/reflections-from-hack-space-con-2023.md)
+
+***
+
+* [Great Godly Resources to Feed Your Soul ✝️](great-godly-resources-to-feed-your-soul.md)
+* [Top 5 Cybersecurity Blogs & Podcasts](top-5-cybersecurity-blogs-and-podcasts.md)
+
+## Gaming Reflections, Projects and Modding
+
+* [Get a Starborn Ship early in Starfield (PC)](gaming-reflections-projects-and-modding/get-a-starborn-ship-early-in-starfield-pc.md)
