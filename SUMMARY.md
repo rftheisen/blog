@@ -5,6 +5,7 @@
 * [My Teaching Philosophy👨🏽‍🏫 🎤💻](my-teaching-philosophy.md)
 * [My Impact on the World](my-impact-on-the-world.md)
 * [Amplify your learning by building a home lab](amplify-your-learning-by-building-a-home-lab.md)
+* [Setting Up Kali Linux in VMware Fusion on Apple Silicon](setting-up-kali-linux-in-vmware-fusion-on-apple-silicon.md)
 * [IP Addressing Simplified](ip-addressing-simplified.md)
 * [Automate All The Things🤖🦾](automate-all-the-things.md)
 * [How I Set Up GitHub Sync for My GitBook Blog](syncing-gitbook-with-github.md)
