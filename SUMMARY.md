@@ -30,3 +30,4 @@
 
 * [Get a Starborn Ship early in Starfield (PC)](gaming-reflections-projects-and-modding/get-a-starborn-ship-early-in-starfield-pc.md)
 * [How RAM Works and Why Gamers Should Care 🎮🧠](gaming-reflections-projects-and-modding/how-ram-works-and-why-gamers-should-care.md)
+* [How Your CPU Works and Why Cooling Matters for Gaming 🔥🧊](gaming-reflections-projects-and-modding/how-your-cpu-works-and-why-cooling-matters-for-gaming.md)
