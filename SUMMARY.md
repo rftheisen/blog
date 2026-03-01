@@ -34,3 +34,4 @@
 * [How Your GPU Works and Why It Matters for Gaming 🎮🖥️](gaming-reflections-projects-and-modding/how-your-gpu-works-and-why-it-matters-for-gaming.md)
 * [How Storage Works and Why It Matters for Gaming 💾⚡](gaming-reflections-projects-and-modding/how-storage-works-and-why-it-matters-for-gaming.md)
 * [How Your Motherboard Works and Why It Matters for Gaming 🎮🔌](gaming-reflections-projects-and-modding/how-your-motherboard-works-and-why-it-matters-for-gaming.md)
+* [Game Consoles Are Computers Too 🎮💻](gaming-reflections-projects-and-modding/game-consoles-are-computers-too.md)
