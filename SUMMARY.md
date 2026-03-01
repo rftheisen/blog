@@ -31,3 +31,6 @@
 * [Get a Starborn Ship early in Starfield (PC)](gaming-reflections-projects-and-modding/get-a-starborn-ship-early-in-starfield-pc.md)
 * [How RAM Works and Why Gamers Should Care 🎮🧠](gaming-reflections-projects-and-modding/how-ram-works-and-why-gamers-should-care.md)
 * [How Your CPU Works and Why Cooling Matters for Gaming 🔥🧊](gaming-reflections-projects-and-modding/how-your-cpu-works-and-why-cooling-matters-for-gaming.md)
+* [How Your GPU Works and Why It Matters for Gaming 🎮🖥️](gaming-reflections-projects-and-modding/how-your-gpu-works-and-why-it-matters-for-gaming.md)
+* [How Storage Works and Why It Matters for Gaming 💾⚡](gaming-reflections-projects-and-modding/how-storage-works-and-why-it-matters-for-gaming.md)
+* [How Your Motherboard Works and Why It Matters for Gaming 🎮🔌](gaming-reflections-projects-and-modding/how-your-motherboard-works-and-why-it-matters-for-gaming.md)
