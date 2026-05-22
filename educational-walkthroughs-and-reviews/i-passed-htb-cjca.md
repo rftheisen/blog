@@ -8,6 +8,8 @@ description: My reflection on Hack The Box's Certified Junior Cybersecurity Asso
 
 I also have to say that the certification art style is sick. It has a professional feel, but it still looks gamified, exciting, and genuinely cool to look at. Most other certifications look professional but bland, with little to no art direction. I love that HTB put this level of visual identity into the credential because it makes the achievement feel more memorable.
 
+On top of that, I have the physical certification kit coming in the mail. It includes a printed version of the certificate, a t-shirt, stickers, and other cool exam lore. I plan to update this blog with pictures once it arrives.
+
 I recently passed Hack The Box's Certified Junior Cybersecurity Associate, also known as HTB CJCA, and I wanted to share a reflection on the experience. Not just because I earned the certification, but because I care deeply about helping beginners break into cybersecurity the right way.
 
 One of the biggest struggles beginners face is finding high-quality, hands-on training that is structured, realistic, and flexible enough to fit into real life. There are plenty of certifications and study paths out there, but many of them lean heavily on theory. A learner can memorize concepts, pass a multiple-choice exam, and still feel unsure when asked to investigate a system, analyze activity, or work through a lab.
