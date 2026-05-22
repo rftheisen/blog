@@ -20,6 +20,8 @@ Hack The Box's introduction to HTB CJCA
 
 ## Why CJCA Stood Out To Me
 
+<figure><img src="../.gitbook/assets/htb-academy-junior-cybersecurity-analyst-path.png" alt=""><figcaption><p>Hack The Box Academy's Junior Cybersecurity Analyst path preview</p></figcaption></figure>
+
 The HTB Academy path stood out to me because of its on-demand nature. You can work through it on your own time and at your own pace, whether that means moving quickly or slowing down when a topic needs more attention. For me, that meant working through modules in the evenings after work. It is hard to put an exact number on how long the full process took, but that flexibility made it realistic.
 
 The path covers a wide breadth of important topics: Windows and Linux fundamentals, networking basics, web penetration testing, network penetration testing, vulnerability assessment, common security frameworks, and cybersecurity paradigms. What I appreciated most is that CJCA covers many of the things you might only define at a surface level when studying for something like Security+, but then goes a step further by making you apply them.
