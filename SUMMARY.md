@@ -19,6 +19,7 @@
 * [Hack The Box NetMon Educational Walkthrough](educational-walkthroughs-and-reviews/hackthebox-netmon-walkthrough.md)
 * [Hack The Box Dante Pro Lab Review, Reflection & Resources](educational-walkthroughs-and-reviews/hack-the-box-dante-pro-lab-review-reflection-and-resources.md)
 * [My HTB CPTS Journey (In Progress)](educational-walkthroughs-and-reviews/my-htb-cpts-journey-in-progress.md)
+* [I Passed HTB CJCA: Why Beginners Should Consider It](educational-walkthroughs-and-reviews/i-passed-htb-cjca.md)
 * [AI Learning Resources for Beginners](educational-walkthroughs-and-reviews/ai-learning-resources-for-beginners.md)
 * [Reflections from Hack Space Con 2023 🌘](educational-walkthroughs-and-reviews/reflections-from-hack-space-con-2023.md)
 
