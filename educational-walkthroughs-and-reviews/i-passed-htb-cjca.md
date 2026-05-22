@@ -52,6 +52,8 @@ Even with my experience, I felt intimidated before hitting the start exam button
 
 The exam gives you five days to reach the required score by capturing flags through penetration testing challenges, completing blue-team focused tasks, and submitting a report. The blue-team side flexes your threat hunting abilities and asks you to think like a hacker from a defender's perspective. I went in with my notes and the cheat sheets I had downloaded from each module. I also felt a boost of courage knowing I had a retake available if I failed.
 
+During the exam, you are given a scope for the engagement that clearly defines what targets you need to attack and what systems you need to access for the blue-team side. That structure is helpful because you are not guessing what is fair game. You are still responsible for figuring out how to complete the objectives, but the boundaries are clear. I also want to be careful here: I cannot get into specific attack paths or exam solutions because that would spoil the experience and go against the spirit of the certification.
+
 That matters because failure is part of learning. In this industry, failures are data. They are lessons that help you succeed later. Obviously, the goal is to win and pass, but sometimes you can turn a failure into a win by turning the L into a lesson.
 
 I completed the exam and submitted the report in about three days. Not three full days, and not three full business days. Realistically, I probably spent around 8 to 12 hours of focused work to reach a passing state, including the report. Some people may see that as fast, and others may see it as slow. But honestly, it does not matter. Your learning journey is your learning journey.
