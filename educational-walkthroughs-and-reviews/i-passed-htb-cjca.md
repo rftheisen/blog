@@ -54,6 +54,8 @@ The exam gives you five days to reach the required score by capturing flags thro
 
 During the exam, you are given a scope for the engagement that clearly defines what targets you need to attack and what systems you need to access for the blue-team side. That structure is helpful because you are not guessing what is fair game. You are still responsible for figuring out how to complete the objectives, but the boundaries are clear. I also want to be careful here: I cannot get into specific attack paths or exam solutions because that would spoil the experience and go against the spirit of the certification.
 
+After submitting the report, an HTB staff member reviews and grades it. They also provide feedback, pass or fail. Thankfully, I passed on my first attempt, but I found it encouraging to know that if I had failed, I could have used their advice to direct my studying and prepare for success on the next attempt. During the waiting period after submitting my report, I continued studying toward HTB's Certified Offensive AI Expert, or COAE, which is their AI-focused certification.
+
 That matters because failure is part of learning. In this industry, failures are data. They are lessons that help you succeed later. Obviously, the goal is to win and pass, but sometimes you can turn a failure into a win by turning the L into a lesson.
 
 I completed the exam and submitted the report in about three days. Not three full days, and not three full business days. Realistically, I probably spent around 8 to 12 hours of focused work to reach a passing state, including the report. Some people may see that as fast, and others may see it as slow. But honestly, it does not matter. Your learning journey is your learning journey.
